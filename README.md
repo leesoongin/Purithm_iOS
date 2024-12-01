@@ -12,6 +12,32 @@ https://apps.apple.com/kr/app/%ED%93%A8%EB%A6%AC%EC%A6%98/id6523427087
   <img src="https://github.com/user-attachments/assets/0e4ad809-84da-427e-acbb-3bda5266fae6" alt="이미지 6" width="16%">
 </p>
 
+---
+
+## 목차
+
+1. [Module Structure](#-1-module-structure)
+   - [Core Modules](#core-modules)
+   - [CoreUIKit](#coreuikit)
+   - [CommonKit](#commonkit)
+   - [Feature Modules](#feature-modules)
+2. [Clean Architecture & MVVM-C](#-2-clean-architecture--mvvm-c)
+   - [Presentation Layer](#🌟-presentation-layer)
+   - [Domain Layer](#🌟-domain-layer)
+   - [Data Layer](#🌟-data-layer)
+3. [프로젝트에서의 기술적인 도전](#🌟-3-프로젝트에서의-기술적인-도전)
+   - [Collection Adapter (with Compositional Layout + Diffable DataSource)](#collection-adapter-with-compositional-layout--diffable-datasource)
+   - [요구사항](#🪀-요구사항)
+   - [적용 이유](#🪀-적용-이유)
+   - [개선점](#🪀-개선점)
+   - [한계점](#🪀-한계점)
+   - [Micro-Features Architecture](#micro-features-architecture)
+   - [적용 이유](#🪀-적용-이유-1)
+   - [개선점](#🪀-개선점-1)
+   - [아쉬운점](#🪀-아쉬운점)
+
+---
+
 ## 🌟 1. Module Structure
 
 ```mermaid
