@@ -1,5 +1,8 @@
 # Purithm - 감성 필터 공유 서비스
+앱스토어 링크 ( 현재 서버 일부 내려간 상태입니다. )
+<br>
 
+https://apps.apple.com/kr/app/%ED%93%A8%EB%A6%AC%EC%A6%98/id6523427087
 <p align="center">
   <img src="https://github.com/user-attachments/assets/daa9c463-e20f-48c4-b2e7-16fcb4a9399e" alt="이미지 1" width="16%">
   <img src="https://github.com/user-attachments/assets/eeb8922e-eae3-409c-81fb-5b7e72bf7c68" alt="이미지 2" width="16%">
